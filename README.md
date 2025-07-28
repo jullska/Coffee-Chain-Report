@@ -47,9 +47,9 @@ The report is divided into 5 pages:
 ---
 
 ## Author
-Created by Julia Stróżyńska
-Email: julia.strozynska@onet.pl
-LinkedIn: (https://www.linkedin.com/in/julia-strozynska)
+- **Created by:** Julia Stróżyńska
+- **Email:** julia.strozynska@onet.pl
+- **LinkedIn:** (https://www.linkedin.com/in/julia-strozynska)
 
 ---
 
